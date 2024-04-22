@@ -1,5 +1,5 @@
 # ISTQB ONLINE TEST
-This is a web project to test ISQTB online test
+This is an ISTQB Online Exam Web Project.
 [ISTQB ONLINE TEST PROJECT](https://bootcamp-qa.github.io/javascript-istqb/)
 
 ## BUILD WITH
