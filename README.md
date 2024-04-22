@@ -9,7 +9,7 @@ This is a web project to test ISQTB online test
 
 
 ## JIRA PROJECT
-[JIRA AGILE CV PROJECT](https://bootcampqareyes.atlassian.net/jira/software/projects/CVP/boards/1)
+[JIRA SCRUM PROJECT](https://bootcampqareyes.atlassian.net/jira/software/projects/CVP/boards/1)
 This project is using JIRA tool for project management and defect traking following agile methodology SCRUM.
 
 
